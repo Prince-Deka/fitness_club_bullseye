@@ -1,7 +1,7 @@
 
 import './App.css';
 import Form from './components/Form';
-import { Switch, Route } from "react-router-dom";
+// import { Switch, Route } from "react-router-dom";
 import List from './components/List';
 
 function App() {
@@ -9,12 +9,15 @@ function App() {
     
 
     
-      <Switch>
+      // <Switch>
 
-        <Route exact path="/" component={Form} />
-        <Route exact path="/list" component={List} />
+      //   <Route exact path="/" component={Form} />
+      //   <Route exact path="/list" component={List} />
         
-      </Switch>
+      // </Switch>
+      <div className='App'>
+          <Form/>
+      </div>
           
 
 

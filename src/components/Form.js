@@ -1,6 +1,6 @@
 import React from 'react'
 import './Form.css'
-import {Link} from 'react-router-dom'
+// import {Link} from 'react-router-dom'
 
 function Form() {
   return (
@@ -22,8 +22,9 @@ function Form() {
                 <br/><br />
 
                 <button className='bg-sky-600 text-white px-4 py-2'>Add member</button><br /><br />
-                <button className='bg-sky-600 text-white px-4 py-2'>
-                <Link to="/list">  View Member List</Link></button>
+                <button className='bg-sky-600 text-white px-4 py-2'>View Member List
+              </button>
+              {/* <Link to="/list">  View Member List</Link> */}
                 
             </form>
         </div>
