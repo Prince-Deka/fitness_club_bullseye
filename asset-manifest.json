@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fitness_club_bullseye/static/css/main.ae84b7af.css",
-    "main.js": "/fitness_club_bullseye/static/js/main.74755068.js",
+    "main.js": "/fitness_club_bullseye/static/js/main.cb5ac256.js",
     "static/js/787.b5aa3df0.chunk.js": "/fitness_club_bullseye/static/js/787.b5aa3df0.chunk.js",
     "index.html": "/fitness_club_bullseye/index.html",
     "main.ae84b7af.css.map": "/fitness_club_bullseye/static/css/main.ae84b7af.css.map",
-    "main.74755068.js.map": "/fitness_club_bullseye/static/js/main.74755068.js.map",
+    "main.cb5ac256.js.map": "/fitness_club_bullseye/static/js/main.cb5ac256.js.map",
     "787.b5aa3df0.chunk.js.map": "/fitness_club_bullseye/static/js/787.b5aa3df0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae84b7af.css",
-    "static/js/main.74755068.js"
+    "static/js/main.cb5ac256.js"
   ]
 }
